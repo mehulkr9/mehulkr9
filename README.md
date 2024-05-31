@@ -1,8 +1,9 @@
+<img align="right" alt="coding" width="400" src="profile-gif.gif">
 
 ### Hi there 👋, my name is Mehul
+
 #### Software Developer
-![Software Developer]
-<img align="right" alt="coding" width="400" src="profile-gif.gif">
+
 I am an Undergraduate student of Computer Science and Engineering. I have an avid interest in Competitive Programming and Web Development.
 
 Skills: HTML / CSS / REACT / JS / C++ / GIT / GITHUB
