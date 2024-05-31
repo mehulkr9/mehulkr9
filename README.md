@@ -1,7 +1,8 @@
+
 ### Hi there 👋, my name is Mehul
 #### Software Developer
-![Software Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
+![Software Developer]
+<img align="right" alt="coding" width="400" src="profile-gif.gif">
 I am an Undergraduate student of Computer Science and Engineering. I have an avid interest in Competitive Programming and Web Development.
 
 Skills: HTML / CSS / REACT / JS / C++ / GIT / GITHUB
